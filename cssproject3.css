@@ -1,0 +1,120 @@
+
+/**/
+#bigDiv{
+    border: solid 1px;
+    margin-left: 520px;
+    margin-right: 5200px;
+    margin-top: 20px;
+    padding: 180px;
+    position: relative;
+    bottom: 390px;
+    z-index: -1; 
+  /*  background-color: honeydew; */
+}
+
+input{
+    display: block;
+    width: 21%;
+    padding: 10px;
+    margin: auto;
+    margin-top: 80px;
+   /* margin-left: 80px;
+    margin-right: 80px;
+     */
+}
+
+.row{
+    display: flex;
+}
+
+.column{
+    margin-top: 20px;
+}
+
+button{
+    padding: 10px 27px;
+}
+
+#plus{
+    margin-left: 540px;
+}
+
+#minus{
+    margin-left: 20px;
+}
+
+#multi{
+    margin-left: 20px;
+}
+
+#div{
+    margin-left: 20px;
+}
+
+.row2{
+    display: flex;
+}
+
+.column2{
+    margin-top: 20px;
+}
+
+#numbers{
+    margin-left: 540px;
+}
+
+#equalSign{
+    margin-left: 20px;
+}
+
+#equal{
+    padding-bottom: 200px;
+    background-color: blue;
+}
+
+#content{
+    color: white;
+    position: relative;
+    top: 90px;
+}
+
+.row2_7_8_9{
+    display: flex;
+}
+
+#eight, #nine{
+    margin-left: 20px;
+}
+
+.row2_4_5_6{
+    display: flex;
+    margin-top: 20px;
+}
+
+#five, #six{
+    margin-left: 20px;
+}
+
+.row2_1_2_3{
+    display: flex;
+    margin-top: 20px;
+}
+
+#two, #three{
+    margin-left: 20px;
+}
+
+.row_last{
+    display: flex;
+    margin-top: 20px;
+}
+
+#dot, #c{
+    margin-left: 20px;
+}
+
+
+#plusSign, #munisSign, #multiSign, #divSign{
+    background-color: rgb(219, 216, 216); 
+}
+
